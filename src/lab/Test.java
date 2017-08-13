@@ -48,7 +48,7 @@ public class Test {
 			System.out.println("HEURES NORMALES : " + totalHn + " Heure(s)");
 			System.out.println("Vous devez régler : " + prix + " €");
 		}else{
-			System.out.println("Merde !!!");
+			System.out.println("Erreur de saisie  !!!");
 		}
 	}
 
